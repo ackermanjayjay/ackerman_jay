@@ -23,7 +23,7 @@
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ackermanjayjay)](https://github.com/ackermanjayjay/github-readme-stats)
 
-[![veilchrome's GitHub stats](https://github-readme-stats.vercel.app/api?username=ackermanjayjay)](https://github.com/ackermanjayjay/github-readme-stats)
+[![ackermanjayjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ackermanjayjay)](https://github.com/ackermanjayjay/github-readme-stats)
 ---------------------------------------------------------------------------------------------------------------------
 Credits: <a href="https://github.com/ackermanjayjay-hash">Muhammad Reza</a>
 ---
