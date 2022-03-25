@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to Scholarship in MIT or Tokyo Institute of Technology 
 - 🥅 Life Goals: Make A Aplication Automation Drive
-- ⚡ Fun fact: I love to Programming python and play game fps lmao
+- ⚡ Fun fact: play game fps lmao
 
 
 
