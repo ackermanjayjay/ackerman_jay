@@ -1,6 +1,7 @@
 ### Hi there, I'm Muhammad Reza - aka [Ackerman jay jay] 👋 
 
-
+<br>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ackermanjayjay-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/ackermanjayjay-hash.svg?style=social&label=Follow)](https://github.com/ackermanjayjay-hash?tab=followers)<br/>
 
 ## I'm a Ungraduate Bachelor in Informatic Engineer!!
 
