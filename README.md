@@ -7,23 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **not work**
-
-- 🌱 I’m currently learning **Flask,TensorFlow**
-
-- 👯 I’m looking to collaborate on **nothing**
-
-- 👨‍💻 All of my projects are available at [nothing](nothing)
-
-- 📝 I regularly write articles on [nothing](nothing)
-
-- 💬 Ask me about **nothing**
-
-- 📫 How to reach me **hammadreza.infor@gmail.com**
-
-- 📄 Know about my experiences [nothing](nothing)
-
-- ⚡ Fun fact **I play game fps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
