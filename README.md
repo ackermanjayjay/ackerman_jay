@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-<img src= "https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"> <h3 align="left">Connect with me: <a src="www.linkedin.com/in/muhammad-reza-3b810b23a">  </h3>
+<h3 align="left">Connect with me: <a href="www.linkedin.com/in/muhammad-reza-3b810b23a"> <img src= "https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"> </a>  </h3>
 <p align="left">
 </p>
 
