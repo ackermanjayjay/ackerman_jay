@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-<h3 align="left">Connect with me:</h3>
+<img src= "https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"> <h3 align="left">Connect with me: <a src="www.linkedin.com/in/muhammad-reza-3b810b23a">  </h3>
 <p align="left">
 </p>
 
