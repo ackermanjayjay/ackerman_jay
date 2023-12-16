@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ackermanjayjay (Muhammad Reza)</h1>
 <h2 align="center">From Indonesia</h3>
 
-<p align="justify-center">A recent graduate in Informatics Engineering, I have strong knowledge and skills in data science and machine learning. I have
-experience in machine learning, data analysis, data science, and contributing to projects (self-study projects, other projects) that
+<p align="justify-center">Fresh graduate in Informatics Engineering, I have strong knowledge and skills in data science and machine learning, BackEnd, and FrontEnd. 
+I have experience in machine learning, data analysis, data science, and contributing to projects (self-study projects, other projects) that
 strengthen my understanding in these areas. I am eager to apply my knowledge and skills in a professional environment.</p>
 <h3 align="left">Skills: </h3>
 
