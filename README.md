@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ackermanjayjay (Muhammad Reza)</h1>
 <h2 align="center">From Indonesia</h3>
 
-<p align="justify-center">Bachelor Computer, with experience implementing solutions ETL, Extract pulling data by streams
+<p align="justify-center">experience implementing solutions ETL, Extract pulling data by streams
 methods using Python Apache Airflow, transform with insight business, load to data warehouse Mysql,
 PostgresSQL, experience in implementing solutions to create website applications for artificial
 intelligence predictions using Flask, Streamlit, FastApi, comparison 3 machine learning to analyze
